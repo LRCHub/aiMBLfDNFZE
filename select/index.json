@@ -1,0 +1,152 @@
+{
+  "version": 1,
+  "base_track": "ラン",
+  "base_artist": "OneRepublic",
+  "createdAt": "2025-12-01T02:00:41.241924Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "ラン・フォー・ユア・ライフ",
+      "artist": "Bad Wolves",
+      "has_synced": false,
+      "path": "select/01_ラン・フォー・ユア・ライフ_Bad_Wolves.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "ノーウェアー・トゥ・ラン",
+      "artist": "From Ashes to New",
+      "has_synced": true,
+      "path": "select/02_ノーウェアー・トゥ・ラン_From_Ashes_to_New.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "ボーイズ・オン・ザ・ラン",
+      "artist": "GING NANG BOYZ",
+      "has_synced": false,
+      "path": "select/03_ボーイズ・オン・ザ・ラン_GING_NANG_BOYZ.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "ボーイズ・オン・ザ・ラン",
+      "artist": "銀杏BOYZ",
+      "has_synced": false,
+      "path": "select/04_ボーイズ・オン・ザ・ラン_銀杏BOYZ.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "ウォーク・ドント・ラン/WALK DON'T RUN",
+      "artist": "The Ventures",
+      "has_synced": false,
+      "path": "select/05_ウォーク・ドント・ラン_WALK_DON'T_RUN_The_Ventures.txt"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Boys on the Run [ボーイズ・オン・ザ・ラン]",
+      "artist": "Ging Nang BOYZ",
+      "has_synced": false,
+      "path": "select/06_Boys_on_the_Run_[ボーイズ・オン・ザ・ラン]_Ging_Nang_BOYZ.txt"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "恋はロング・ラン",
+      "artist": "Secret",
+      "has_synced": true,
+      "path": "select/07_恋はロング・ラン_Secret.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "恋はロング・ラン",
+      "artist": "Secret",
+      "has_synced": true,
+      "path": "select/08_恋はロング・ラン_Secret.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "ボーイズ・オン・ザ・ラン",
+      "artist": "Kobukuro",
+      "has_synced": false,
+      "path": "select/09_ボーイズ・オン・ザ・ラン_Kobukuro.txt"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "ボーイズ・オン・ザ・ラン",
+      "artist": "コブクロ",
+      "has_synced": false,
+      "path": "select/10_ボーイズ・オン・ザ・ラン_コブクロ.txt"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "ラン・アモック",
+      "artist": "Dynazty",
+      "has_synced": false,
+      "path": "select/11_ラン・アモック_Dynazty.txt"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "ラン　ラン　ラン",
+      "artist": "キロロ",
+      "has_synced": true,
+      "path": "select/12_ラン_ラン_ラン_キロロ.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "ラン♪ for ジャンピン!",
+      "artist": "DressingPafe(cv.山北早紀､澁谷梓希､若井友希)",
+      "has_synced": false,
+      "path": "select/13_ラン♪_for_ジャンピン!_DressingPafe(cv.山北早紀、澁谷梓希、若井友希).txt"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "弱虫モンブラン",
+      "artist": "DECO*27",
+      "has_synced": true,
+      "path": "select/14_弱虫モンブラン_DECO_27.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "ラン・ラン・ドゥ・ラン・ラン！",
+      "artist": "るか・もな・みき・みほ・ななせ・かな from AIKATSU☆STARS!",
+      "has_synced": false,
+      "path": "select/15_ラン・ラン・ドゥ・ラン・ラン!_るか・もな・みき・みほ・ななせ・かな_from_AIKATSU☆STARS!.txt"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Dreaming I was dreaming(ストレート・ラン)",
+      "artist": "安室奈美恵 Amuro Namie",
+      "has_synced": true,
+      "path": "select/16_Dreaming_I_was_dreaming(ストレート・ラン)_安室奈美恵_Amuro_Namie.lrc"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "アルデバラン",
+      "artist": "EOW",
+      "has_synced": false,
+      "path": "select/17_アルデバラン_EOW.txt"
+    },
+    {
+      "id": "petitlyrics",
+      "source": "petitlyrics",
+      "title": "ラン",
+      "artist": "OneRepublic",
+      "has_synced": false,
+      "path": "select/pl_ラン_OneRepublic.txt"
+    }
+  ]
+}
